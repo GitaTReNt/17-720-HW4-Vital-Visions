@@ -1,0 +1,27 @@
+{
+  "status": "recorded_live_reception_success",
+  "date_local": "2026-11-06",
+  "timezone": "America/New_York",
+  "mode": "Live phone camera and browser decoding, documented by an actual phone screen recording",
+  "receiver_version": "v3 English interface; Video frame callback mode visible in recording",
+  "message_received": "CMU",
+  "crc_ok": true,
+  "evidence_type": "visually inspected phone screen recording",
+  "previous_user_confirmation": "User explicitly confirmed that the phone displayed CMU and the CRC success mark.",
+  "demo_video": "I:\\17720\\HW4\\data\\communication\\HW4_live_demo.mp4",
+  "demo_video_sha256": "0e9b39c54b82e5ff8eed8889e456d40178d86954ae0e0fb3e2d4ab7262d27f7e",
+  "duration_seconds": 77.33333333333333,
+  "recorded_configuration": {
+    "distance_cm": 20,
+    "delta_alpha": 0.1,
+    "symbol_seconds": 1,
+    "source": "Transmitter controls visible at 5 s in the supplied video; physical distance was not independently remeasured."
+  },
+  "screenshot_file": "I:\\17720\\HW4\\results\\communication\\live_demo\\frame_70s.png",
+  "progress_screenshot_file": "I:\\17720\\HW4\\results\\communication\\live_demo\\frame_40s.png",
+  "success_frame_video_seconds": 70,
+  "receiver_csv_file": null,
+  "ber": null,
+  "goodput_bps": null,
+  "limitation": "The video directly documents live sampling and a CMU / CRC-success display. No raw live intensity CSV or original transmitter log for this new demo is archived, so this demonstration is not added to the 530-bit offline BER comparison."
+}

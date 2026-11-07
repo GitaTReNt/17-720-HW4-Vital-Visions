@@ -1,0 +1,11 @@
+distance_cm,delta_alpha,nominal_raw_bps,ber,goodput_bps,payload_goodput_bps,crc_ok,synchronized,message_decoded,correct_bits,total_transmitted_bits,reference_type,source
+20.0,0.1,1.0,0.0,1.0,0.4528301886792453,True,True,CMU,53,53,prior_fixed_protocol_without_original_tx_log,results\communication\d20_a0p1_t1_r1\result.json
+20,0.5,1.0,0.0,1.0,0.4528301886792453,True,True,CMU,53,53,original_transmitter_log,results\communication\d20_a0p5_t1_r1\result.json
+40,0.1,1.0,0.0,1.0,0.4528301886792453,True,True,CMU,53,53,original_transmitter_log,results\communication\d40_a0p1_t1_r1\result.json
+40,0.5,1.0,0.0,1.0,0.4528301886792453,True,True,CMU,53,53,original_transmitter_log,results\communication\d40_a0p5_t1_r1\result.json
+80,0.1,1.0,0.0,1.0,0.4528301886792453,True,True,CMU,53,53,original_transmitter_log,results\communication\d80_a0p1_t1_r1\result.json
+80,0.5,1.0,0.0,1.0,0.4528301886792453,True,True,CMU,53,53,original_transmitter_log,results\communication\d80_a0p5_t1_r1\result.json
+120,0.1,1.0,0.0,1.0,0.4528301886792453,True,True,CMU,53,53,original_transmitter_log,results\communication\d120_a0p1_t1_r1\result.json
+120,0.5,1.0,0.0,1.0,0.4528301886792453,True,True,CMU,53,53,original_transmitter_log,results\communication\d120_a0p5_t1_r1\result.json
+120,0.1,2.0,0.0,2.0,0.9056603773584906,True,True,CMU,53,53,original_transmitter_log,results\communication\d120_a0p1_t0.5_r1\result.json
+120,0.1,3.0000000003,0.0,3.0000000003,1.3584905661735849,True,True,CMU,53,53,original_transmitter_log,results\communication\d120_a0p1_t0.3333333333_r1\result.json

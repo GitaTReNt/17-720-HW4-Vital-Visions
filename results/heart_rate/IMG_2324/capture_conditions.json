@@ -1,0 +1,13 @@
+{
+  "source": "user-provided acquisition details in chat, 2026-11-06",
+  "device": "iPhone 17 Pro Max",
+  "flash_on": true,
+  "finger_pressure": "not quantified",
+  "motion_event": {
+    "approximate_seconds": [19, 20],
+    "user_description": "slight finger movement",
+    "analysis_handling": "retained in the primary full-frame analysis; noted as a motion artifact"
+  },
+  "reference_heart_rate_bpm": null,
+  "reference_note": "No simultaneous reference-device measurement was supplied."
+}

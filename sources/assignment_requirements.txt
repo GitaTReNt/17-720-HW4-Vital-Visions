@@ -1,0 +1,39 @@
+Assignment 4: Vital Visions - retrieved 2026-11-01
+
+Authoritative pages consulted:
+https://canvas.cmu.edu/courses/55703/assignments/1008627
+https://healthsensing.notion.site/Assignment-4-Vital-Visions-e931b19764b848c8ab0ef525d2081d93
+Canvas links to a file-upload assignment, 100 points, due Nov 5 2026 at 11:59pm.
+Notion title includes Due date: Nov 4. Dates disagree; verify with teaching staff.
+
+Part 1: Smartphone-based heart-rate monitoring
+Record a 30-second finger-over-camera video with torch on. Per frame: grayscale conversion,
+mean intensity, DC subtraction, high-pass filter, FFT maximum in 60-100 bpm range,
+peak finding with minimum distance based on estimated HR and camera sampling rate.
+Deliver FFT plot with HR in Hz; time-domain plot with detected beats and bpm title; code.
+Optional: no flash and different finger pressures.
+
+Part 2: Fine-tuning vision models for medical image diagnostics
+Choose a pretrained model and medical image dataset; choices beyond listed datasets allowed.
+Fine-tune and report validation accuracy. Submit a Colab notebook and brief writeup
+with model, data and results. Optional per-class ROC/AUC and last-layer t-SNE.
+
+Part 3: Real-time screen-camera communication with alpha channel
+Static picture on transmitter screen; modulate alpha with BFSK for phone receiver.
+Increase data rate and record visually noticeable changes. Test delta alpha 0.1 and 0.5,
+at distances 20,40,80,120 cm. Report data rates and BER versus alpha at each distance,
+and explain. BER=1-correct bits/transmitted bits. Data-rate=correct bits per second.
+Optional multi-word demo recorded with a third camera.
+
+Final deliverable: PDF uploaded to Canvas, including GitHub repository URL.
+Optional demo video. No submission or repository publication was performed in this run.
+
+Course AI policy (Syllabus_2026.pdf, pages 8-9): AI code generation is encouraged;
+real-world data collection and sensor experiments must still be conducted.
+
+Implementation references:
+https://medmnist.com/
+https://github.com/MedMNIST/MedMNIST
+https://zenodo.org/records/10519652/files/dermamnist.npz?download=1
+https://docs.pytorch.org/vision/stable/models/generated/torchvision.models.resnet18.html
+https://cs.columbia.edu/~xia/publication/mobisys15-hilight/mobisys15-hilight.pdf

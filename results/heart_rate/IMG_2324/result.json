@@ -1,0 +1,25 @@
+{
+  "fft_hz": 1.0359712230215754,
+  "fft_bpm": 62.15827338129452,
+  "time_domain_bpm": 62.14549938347675,
+  "samples_per_beat": 23.166666666666664,
+  "min_peak_distance_samples": 15,
+  "peak_prominence": 0.11703178267959467,
+  "peak_count": 36,
+  "fft_resolution_hz": 0.028776978417265984,
+  "search_range_bpm": [
+    60,
+    100
+  ],
+  "warnings": [],
+  "status": "real_video_analysis",
+  "input_file": "I:\\17720\\HW4\\data\\heart_rate\\IMG_2324.MOV",
+  "input_sha256": "30b0859f4a7af8953ff45b3d230688d658f808cc8197e37abc44521071a76b19",
+  "sampling_hz": 23.99999999999983,
+  "timing": "decoded frame timestamps, resampled to uniform grid",
+  "duration_seconds": 34.75000000000025,
+  "trim_seconds": 2,
+  "roi": null,
+  "saturated_pixel_fraction_mean": 0.0,
+  "interpretation": "Signal estimate only; no reference-device accuracy claim."
+}

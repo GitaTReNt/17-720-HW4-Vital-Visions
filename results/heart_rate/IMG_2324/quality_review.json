@@ -1,0 +1,29 @@
+{
+  "status": "quality_review",
+  "gray_min_max": [
+    44.17777951388826,
+    49.77746145833336
+  ],
+  "gray_std": 1.097625018884052,
+  "windows": [
+    {
+      "start_seconds": 2,
+      "end_seconds": 12,
+      "dominant_frequency_1_to_1p667_hz": 0.9999999999999716,
+      "bpm": 59.999999999998295
+    },
+    {
+      "start_seconds": 12,
+      "end_seconds": 22,
+      "dominant_frequency_1_to_1p667_hz": 1.0999999999999688,
+      "bpm": 65.99999999999812
+    },
+    {
+      "start_seconds": 22,
+      "end_seconds": 32,
+      "dominant_frequency_1_to_1p667_hz": 0.9999999999999716,
+      "bpm": 59.999999999998295
+    }
+  ],
+  "note": "Window FFT values have coarse 0.1 Hz resolution; these are stability checks, not independent reference measurements."
+}

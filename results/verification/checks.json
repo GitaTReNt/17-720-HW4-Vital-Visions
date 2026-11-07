@@ -1,0 +1,44 @@
+{
+  "status": "synthetic_algorithm_checks_only",
+  "checks": [
+    {
+      "check": "synthetic 72 bpm waveform",
+      "passed": true,
+      "fft_bpm": 72.0,
+      "peak_bpm": 72.0
+    },
+    {
+      "check": "synthetic video decoding + grayscale + timing",
+      "passed": true,
+      "fft_bpm": 72.00000000000026,
+      "timing": "decoded frame timestamps, resampled to uniform grid"
+    },
+    {
+      "check": "synthetic BFSK timing jitter + drift + noise at 1 bit/s",
+      "passed": true,
+      "ber": 0.0,
+      "decoded": "CMU"
+    },
+    {
+      "check": "synthetic BFSK timing jitter + drift + noise at 2 bit/s",
+      "passed": true,
+      "ber": 0.0,
+      "decoded": "CMU"
+    },
+    {
+      "check": "synthetic BFSK timing jitter + drift + noise at 3 bit/s",
+      "passed": true,
+      "ber": 0.0,
+      "decoded": "CMU"
+    },
+    {
+      "check": "synthetic receiver CSV through the full decoding CLI",
+      "passed": true
+    },
+    {
+      "check": "constant input is a lost packet, not zero BER",
+      "passed": true
+    }
+  ],
+  "physical_validation": false
+}

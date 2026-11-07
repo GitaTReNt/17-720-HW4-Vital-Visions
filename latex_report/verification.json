@@ -1,0 +1,12 @@
+{
+  "pdf_pages": 10,
+  "latex_warnings": "none",
+  "source_pdf_zip_consistent": true,
+  "zip_crc": "passed",
+  "physical_trials": 10,
+  "frame_bits_compared": 530,
+  "phone_real_time_reception_demonstrated": true,
+  "phone_real_time_reception_evidence": "visually inspected phone screen recording",
+  "visual_review": "All pages rendered; contact sheet and detailed pages inspected.",
+  "pdf_sha256": "9e06f1d8dbdcd066fdc749c669add2fdba603cc4df880a95a615b1e29055721c"
+}

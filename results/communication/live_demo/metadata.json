@@ -1,0 +1,40 @@
+{
+  "video": "I:\\17720\\HW4\\data\\communication\\HW4_live_demo.mp4",
+  "source_user_copy": "I:\\17720\\HW4\\output\\pdf\\cb0a32817f28f4ee0343f10be73f4bc0.mp4",
+  "sha256": "0e9b39c54b82e5ff8eed8889e456d40178d86954ae0e0fb3e2d4ab7262d27f7e",
+  "bytes": 12822099,
+  "fps": 30.0,
+  "frames": 2320,
+  "duration_seconds": 77.33333333333333,
+  "width": 592,
+  "height": 1280,
+  "sampled_times_seconds": [
+    0,
+    5,
+    10,
+    20,
+    30,
+    40,
+    50,
+    60,
+    65,
+    70,
+    74,
+    76.5
+  ],
+  "review_status": "visually inspected: live sampling and CMU / CRC PASS visible",
+  "visually_confirmed_frames": [
+    {
+      "time_seconds": 5,
+      "observation": "English transmitter UI: configured distance 20 cm, alpha difference 0.1, 1 s per bit; receiver v3 is sampling."
+    },
+    {
+      "time_seconds": 40,
+      "observation": "Preamble found; receiver indicates a packet is in progress."
+    },
+    {
+      "time_seconds": 70,
+      "observation": "Receiver displays Received: CMU | CRC PASS, 2010 samples over 67.1 s, approximately 30.1 reads/s, Video frame callback mode."
+    }
+  ]
+}

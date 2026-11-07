@@ -1,0 +1,79 @@
+{
+  "nominal_fps": 23.990208078335375,
+  "nominal_frames": 882.0,
+  "nominal_duration_seconds": 36.765,
+  "width": 1080.0,
+  "height": 1920.0,
+  "sampled_frames": [
+    {
+      "seconds_requested": 0,
+      "timestamp_seconds": 0.0,
+      "mean_RGB": [
+        106.48960696373457,
+        24.808292824074073,
+        12.39678337191358
+      ],
+      "saturated_RGB_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "seconds_requested": 2,
+      "timestamp_seconds": 2.0,
+      "mean_RGB": [
+        106.96555844907408,
+        24.993948688271605,
+        12.512320119598765
+      ],
+      "saturated_RGB_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "seconds_requested": 10,
+      "timestamp_seconds": 10.005,
+      "mean_RGB": [
+        101.88443576388889,
+        23.659430941358025,
+        11.984745370370371
+      ],
+      "saturated_RGB_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "seconds_requested": 20,
+      "timestamp_seconds": 20.008333333333333,
+      "mean_RGB": [
+        100.92007957175926,
+        23.497779224537037,
+        11.735758101851852
+      ],
+      "saturated_RGB_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "seconds_requested": 30,
+      "timestamp_seconds": 30.013333333333335,
+      "mean_RGB": [
+        107.58174430941358,
+        25.35394965277778,
+        12.327645640432099
+      ],
+      "saturated_RGB_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ]
+}

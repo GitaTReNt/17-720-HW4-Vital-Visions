@@ -1,0 +1,57 @@
+{
+  "actinic keratoses and intraepithelial carcinoma": {
+    "precision": 0.4186046511627907,
+    "recall": 0.5454545454545454,
+    "f1-score": 0.47368421052631576,
+    "support": 66.0
+  },
+  "basal cell carcinoma": {
+    "precision": 0.4852941176470588,
+    "recall": 0.6407766990291263,
+    "f1-score": 0.5523012552301255,
+    "support": 103.0
+  },
+  "benign keratosis-like lesions": {
+    "precision": 0.47410358565737054,
+    "recall": 0.5409090909090909,
+    "f1-score": 0.505307855626327,
+    "support": 220.0
+  },
+  "dermatofibroma": {
+    "precision": 0.3333333333333333,
+    "recall": 0.043478260869565216,
+    "f1-score": 0.07692307692307693,
+    "support": 23.0
+  },
+  "melanoma": {
+    "precision": 0.3653250773993808,
+    "recall": 0.5291479820627802,
+    "f1-score": 0.43223443223443225,
+    "support": 223.0
+  },
+  "melanocytic nevi": {
+    "precision": 0.9236499068901304,
+    "recall": 0.7397464578672632,
+    "f1-score": 0.8215320910973085,
+    "support": 1341.0
+  },
+  "vascular lesions": {
+    "precision": 0.19696969696969696,
+    "recall": 0.896551724137931,
+    "f1-score": 0.32298136645962733,
+    "support": 29.0
+  },
+  "accuracy": 0.6773067331670823,
+  "macro avg": {
+    "precision": 0.4567543384371087,
+    "recall": 0.5622949657614718,
+    "f1-score": 0.45499489829960194,
+    "support": 2005.0
+  },
+  "weighted avg": {
+    "precision": 0.755798900357869,
+    "recall": 0.6773067331670823,
+    "f1-score": 0.7025019542980354,
+    "support": 2005.0
+  }
+}

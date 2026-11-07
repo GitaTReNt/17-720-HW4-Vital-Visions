@@ -1,0 +1,45 @@
+{
+  "source_video": "I:\\17720\\HW4\\data\\communication\\tx_d120_a0.1_a0.5_t1.MOV",
+  "video_sha256": "4ab01463dcd2502d541aa18275800ea5f2c92df81ef3502fa1a8a5411ed4c198",
+  "roi": [
+    850,
+    450,
+    100,
+    100
+  ],
+  "split_seconds": 63.516666666663056,
+  "transmissions": [
+    {
+      "distance_cm": 120,
+      "delta_alpha": 0.1,
+      "start_seconds": 6.38333333333333,
+      "segment_seconds": [
+        0.0,
+        63.516666666663056
+      ],
+      "full_packet_within_segment": true,
+      "message_decoded": "CMU",
+      "crc_ok": true,
+      "total_transmitted_bits": 53,
+      "correct_bits": 53,
+      "ber": 0.0,
+      "goodput_bps": 1.0
+    },
+    {
+      "distance_cm": 120,
+      "delta_alpha": 0.5,
+      "start_seconds": 70.11666666666324,
+      "segment_seconds": [
+        63.516666666663056,
+        127.03333333332611
+      ],
+      "full_packet_within_segment": true,
+      "message_decoded": "CMU",
+      "crc_ok": true,
+      "total_transmitted_bits": 53,
+      "correct_bits": 53,
+      "ber": 0.0,
+      "goodput_bps": 1.0
+    }
+  ]
+}

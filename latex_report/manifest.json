@@ -1,0 +1,75 @@
+{
+  "template": "hw2_report.tex from user-supplied Report___HW2___Yuntian_Wu.zip",
+  "template_archive_sha256": "a9720a9de3c938e5c4479f949e621eb9c7f521bdf636a69aeda95ca21668c8c8",
+  "engine": "tectonic.exe; shell escape disabled",
+  "pdf_sha256": "9e06f1d8dbdcd066fdc749c669add2fdba603cc4df880a95a615b1e29055721c",
+  "phone_real_time_reception_demonstrated": true,
+  "phone_real_time_reception_evidence": "visually inspected phone screen recording",
+  "github_url": "https://github.com/GitaTReNt/17-720-HW4-Vital-Visions",
+  "files": [
+    {
+      "path": "main.tex",
+      "sha256": "9861ac4512c1cd35bb8f54af9d5aa7d1b510bc6dce0cd811a178b0f02157fc22"
+    },
+    {
+      "path": "fast_results.tex",
+      "sha256": "288738fa91316d0f92be6e3d339790766702d76a8310ab45532ba4267c43d175"
+    },
+    {
+      "path": "visibility.tex",
+      "sha256": "f7e0d639779e67e6f0beb76523fb2205e573a622ba96849764a805d036881d75"
+    },
+    {
+      "path": "live_demo.tex",
+      "sha256": "493b905ba64811541d8b0d407e7d73f43322fb53b880b5924922a1faec0021fb"
+    },
+    {
+      "path": "README.txt",
+      "sha256": "dcf2bbbd317a1d4c4c38ff61f3f63581b27a9fd7532c1a4f2cdd7ba13022bfe2"
+    },
+    {
+      "path": "figures/baseline_matrix.png",
+      "sha256": "123f51713072de25aa23253d9686875debe6b6b87861e01f6b91244c579c53ff"
+    },
+    {
+      "path": "figures/d80_transmissions.png",
+      "sha256": "60e0e63209bd813485e886f328ae4fd0fc057a6229d11d66c7dcd093de7d8c13"
+    },
+    {
+      "path": "figures/fast_transmissions.png",
+      "sha256": "bceb12a13f989c8716420d6b10e4980560720ca48cd8b8e9e93704ac77c901a6"
+    },
+    {
+      "path": "figures/heart_fft.png",
+      "sha256": "639a66ee70cf5241d3a3e29e731d88ca8f497d7c0838849ab46d5ba774bf3245"
+    },
+    {
+      "path": "figures/heart_peaks.png",
+      "sha256": "10a38f9f0d07721c5c9feb2074dbccd7985dc89b1ae4a20505a1a4b94ea2a813"
+    },
+    {
+      "path": "figures/learning_curves.png",
+      "sha256": "df112a90bb005ed203592e09009ac79b8a4a42afa91af2f6aa718da4ffa7edf2"
+    },
+    {
+      "path": "figures/live_progress.png",
+      "sha256": "f1b9a503f1bc3e0a1b4c205d551e3a86c333e58f158d9551ccd477abc22f9ba9"
+    },
+    {
+      "path": "figures/live_success.png",
+      "sha256": "ccca3d7a22bdfdff3a065cb3210032d340f8ad6c278d52e993d1fece095b149a"
+    },
+    {
+      "path": "figures/val_confusion.png",
+      "sha256": "07152fbe471a147d03248c8a77ea71dfd25134ce5d2dd7ff9071a8604feb852b"
+    },
+    {
+      "path": "figures/val_roc.png",
+      "sha256": "5cbbfb2e42d641bc6817950050df71798d34986ed00df388268e4a88172c4df1"
+    },
+    {
+      "path": "figures/val_tsne.png",
+      "sha256": "8a1b8bf10e74a8105b34410a4070dc46e40a003942401c0b0581cfc7724ab0ab"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "source_video": "I:\\17720\\HW4\\data\\communication\\last.MOV",
+  "video_sha256": "afd615209770514dacb2700b067c98a82ec2bffe3720a5b10bef28e8829cad5a",
+  "roi": [
+    940,
+    480,
+    100,
+    70
+  ],
+  "split_seconds": 32.09999999999989,
+  "transmissions": [
+    {
+      "distance_cm": 120,
+      "delta_alpha": 0.1,
+      "nominal_raw_bps": 2.0,
+      "symbol_seconds": 0.5,
+      "start_seconds": 5.25,
+      "segment_seconds": [
+        0.0,
+        32.09999999999989
+      ],
+      "full_packet_within_segment": true,
+      "message_decoded": "CMU",
+      "crc_ok": true,
+      "total_transmitted_bits": 53,
+      "correct_bits": 53,
+      "ber": 0.0,
+      "goodput_bps": 2.0,
+      "payload_goodput_bps": 0.9056603773584906
+    },
+    {
+      "distance_cm": 120,
+      "delta_alpha": 0.1,
+      "nominal_raw_bps": 3.0000000003,
+      "symbol_seconds": 0.3333333333,
+      "start_seconds": 43.774999999999224,
+      "segment_seconds": [
+        32.09999999999989,
+        64.19999999999978
+      ],
+      "full_packet_within_segment": true,
+      "message_decoded": "CMU",
+      "crc_ok": true,
+      "total_transmitted_bits": 53,
+      "correct_bits": 53,
+      "ber": 0.0,
+      "goodput_bps": 3.0000000003,
+      "payload_goodput_bps": 1.3584905661735849
+    }
+  ]
+}

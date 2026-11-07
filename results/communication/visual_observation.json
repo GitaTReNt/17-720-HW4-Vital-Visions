@@ -1,0 +1,8 @@
+{
+  "source": "User observation in chat, 2026-11-06",
+  "nominal_raw_bps": 1,
+  "alpha_0p1_flicker_noticeable": true,
+  "alpha_0p5_flicker_noticeable": true,
+  "user_statement": "Both are noticeable to the naked eye.",
+  "scope": "General observation at the tested baseline speed; no separate graded visibility score was collected at each distance."
+}
